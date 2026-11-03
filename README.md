@@ -3,11 +3,11 @@ Official NŌVA Android app downloads and release notes.
 
 <div align="center">
 
-# NÅŒVA â€” Clothing Store App
+# Nova Clothing Store App
 
 **Modern fashion. Simple shopping.**
 
-A modern, mobile-first shopping app for **NÅŒVA**, a Sri Lankan unisex clothing brand.
+A modern, mobile-first shopping app for **Nova**, a Sri Lankan unisex clothing brand.
 
 Built with **React Native**, **Expo**, **TypeScript**, and **Firebase**.
 
@@ -17,7 +17,7 @@ Built with **React Native**, **Expo**, **TypeScript**, and **Firebase**.
 
 ## About
 
-NÅŒVA is a fashion shopping experience designed around a clean, minimal interface, blue-tinted glass-inspired details, and smooth navigation. Customers can discover collections, view product details, manage their cart, and place orders from their phone.
+Nova is a fashion shopping experience designed around a clean, minimal interface, blue-tinted glass-inspired details, and smooth navigation. Customers can discover collections, view product details, manage their cart, and place orders from their phone.
 
 > **Development note:** This README describes the project's intended features and setup. Some features may still be in progress; verify implementation against the current source code before marking the app production-ready.
 
