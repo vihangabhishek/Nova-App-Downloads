@@ -163,6 +163,6 @@ Suggestions and bug reports are welcome through this repository's Issues section
 
 <div align="center">
 
-Made for **Nōva* â€” Sri Lanka°
+Made for **Nōva** ” Sri Lanka ©
 
 </div>
