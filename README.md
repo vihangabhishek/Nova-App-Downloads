@@ -1,9 +1,9 @@
-# Nova-App-Downloads
+# Nōva-App-Downloads
 Official NŌVA Android app downloads and release notes.
 
 <div align="center">
 
-# Nova Clothing Store App
+# Nōva Clothing Store App
 
 **Modern fashion. Simple shopping.**
 
@@ -17,7 +17,7 @@ Built with **React Native**, **Expo**, **TypeScript**, and **Firebase**.
 
 ## About
 
-Nova is a fashion shopping experience designed around a clean, minimal interface, blue-tinted glass-inspired details, and smooth navigation. Customers can discover collections, view product details, manage their cart, and place orders from their phone.
+Nōva is a fashion shopping experience designed around a clean, minimal interface, blue-tinted glass-inspired details, and smooth navigation. Customers can discover collections, view product details, manage their cart, and place orders from their phone.
 
 > **Development note:** This README describes the project's intended features and setup. Some features may still be in progress; verify implementation against the current source code before marking the app production-ready.
 
@@ -163,6 +163,6 @@ Suggestions and bug reports are welcome through this repository's Issues section
 
 <div align="center">
 
-Made for **NÅŒVA** â€” Sri Lanka ðŸ‡±ðŸ‡°
+Made for **Nōva* â€” Sri Lanka°
 
 </div>
